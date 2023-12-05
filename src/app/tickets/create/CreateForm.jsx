@@ -56,8 +56,8 @@ export default function CreateForm() {
                     value={priority}
                 >
                     <option value="low">Low Priority</option>
-                    <option value="medium">Low Priority</option>
-                    <option value="high">Low Priority</option>
+                    <option value="medium">  Medium Priority</option>
+                    <option value="high">High Priority</option>
                 </select>
             </label>
             <button

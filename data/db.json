@@ -48,6 +48,13 @@
       "priority": "low",
       "user_email": "mario@netninja.dev",
       "id": "rrm88SN"
+    },
+    {
+      "title": "Clean up",
+      "body": "blah blah",
+      "priority": "high",
+      "user_email": "mario@netninja.dev",
+      "id": "4SznIns"
     }
   ]
 }
